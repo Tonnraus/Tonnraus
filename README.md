@@ -1,16 +1,19 @@
-### Hi there 👋
+##I am a student, entrepreneur coder.
+- I am currently updating projects.
+- I am currently learning backend.
+- I would like to collaborate with other content creators.
+- 2020 Goal:  Create a small team of developers.
+- Extra Fact: I play the piano and skate to relax.
 
-<!--
-**Tonnraus/Tonnraus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[LInkedIn](http://https://www.linkedin.com/in/cristofher-jumbo-jimenez-168203187/ "LInkedIn")
+[Instagram](http://https://www.instagram.com/anxon.mond/?hl=en "Instagram")
+### Languages and tools:
+- Javascript
+- HTML
+- Css
+- Sass
+- React
+- GitHub
+- Node.js
+- jQuery
