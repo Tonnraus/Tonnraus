@@ -1,4 +1,4 @@
-##I am a student, entrepreneur coder.
+## I am a student, entrepreneur coder.
 - I am currently updating projects.
 - I am currently learning backend.
 - I would like to collaborate with other content creators.
