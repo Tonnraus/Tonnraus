@@ -10,12 +10,12 @@
 ### Connect with me:
 [LInkedIn](http://https://www.linkedin.com/in/cristofher-jumbo-jimenez-168203187/ "LInkedIn")
 [Instagram](http://https://www.instagram.com/anxon.mond/?hl=en "Instagram")
-### Languages and tools:
-- Javascript
-- HTML
-- Css
-- Sass
-- React
+### Tecnologies:
+- Typescript
+- Nodejs
+- Reac
+- React Native
+- Nextjs
 - GitHub
 - Node.js
 - jQuery
