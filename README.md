@@ -1,20 +1,21 @@
-### Hi there! I am Cristofher, - aka Aybike.
-*This is my GitHub Profile where I share information aboout me and also the achivements during my career as Software Developer.*
-https://chr-jimenez.com
-##I am a student, entrepreneur coder.
-- I am currently updating projects.
-- I am currently learning backend.
-- I would like to collaborate with other content creators.
-- 2020 Goal:  Create a small team of developers.
-- Extra Fact: I play the piano and skate to relax.
+### Welcome! I am Cristofher, - Aybike.
+*I am a MERN stack developer with knowledge in other fields such as Agile methods or Communication strategies. Actually, I proudly work for a Start-up to fight injustice and discrimination. In my free time, I write poetry and make researches about depression, equality, politics, JS, etc. So I can share it with the community.*
+You are invited to take a look at my portfolio -> https://chr-jimenez.com
+## I code, creative, beyond.
+- Curently updating projects...🖨️
+- Learning the 21 software desing patterns...
+- Collaborating with another creator... We created Translantic Dev
+- 2021: Combat one society issue.
+- Extra: I am a big fan of Podcasts.
 
-### Connect with me:
-[LInkedIn](http://https://www.linkedin.com/in/cristofher-jumbo-jimenez-168203187/ "LInkedIn")
+### Send me a "Hi!" on :
+[LinkedIn](http://https://www.linkedin.com/in/cristofher-jumbo-jimenez-168203187/ "LInkedIn")
 [Instagram](http://https://www.instagram.com/anxon.mond/?hl=en "Instagram")
+
 ### Tecnologies:
 - Typescript
 - Nodejs
-- Reac
+- React
 - React Native
 - Nextjs
 - GitHub
