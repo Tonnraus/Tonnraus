@@ -9,6 +9,8 @@ You are invited to take a look at my portfolio -> https://chr-jimenez.com
 - Extra: I am a big fan of Podcasts.
 
 ### Send me a "Hi!" on :
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Linkedin.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/Linkedin.svg" />
 [LinkedIn](http://https://www.linkedin.com/in/cristofher-jumbo-jimenez-168203187/ "LInkedIn")
 [Instagram](http://https://www.instagram.com/anxon.mond/?hl=en "Instagram")
 
