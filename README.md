@@ -34,7 +34,3 @@ You are invited to take a look at my portfolio -> https://chr-jimenez.com
 ---
 
 <img align="left" alt="Tonnraus' Github Stats" src="https://github-readme-stats-tonnraus.vercel.app/api?username=Tonnraus&show_icons=true&hide_border=true" /> 
-
-### Github Actions
----
-<!--START_SECTION:activity-->
