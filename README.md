@@ -1,4 +1,9 @@
 ### Welcome! I am Cristofher, - Aybike.
+<div>
+<img alt="Github Followers" src="https://img.shields.io/github/followers/Tonnraus?style=social"/>
+<img alt="Twitch" src="https://img.shields.io/twitch/status/aybique_?style=social"/>
+<img alt="Youtube" src="https://img.shields.io/badge/chr.jimenez%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
+</div>
 *I am a MERN stack developer with knowledge in other fields such as Agile methods or Communication strategies. Actually, I proudly work for a Start-up to fight injustice and discrimination. In my free time, I write poetry and make researches about depression, equality, politics, JS, etc. So I can share it with the community.*
 You are invited to take a look at my portfolio -> https://chr-jimenez.com
 ## I code, creative, beyond.
@@ -24,3 +29,8 @@ You are invited to take a look at my portfolio -> https://chr-jimenez.com
 <img src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/php/php.png" width="30" height="30" />
 </div>
+
+### Github Stats
+---
+
+<img align="left" alt="Tonnraus' Github Stats" src="https://github-readme-stats-tonnraus.vercel.app/api?username=Tonnraus&show_icons=true&hide_border=true" /> 
