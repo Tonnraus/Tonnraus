@@ -4,7 +4,7 @@
 <img alt="Twitch" src="https://img.shields.io/twitch/status/aybique_?style=social"/>
 <img alt="Youtube" src="https://img.shields.io/badge/chr.jimenez%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
 </div>
-*I am a MERN stack developer with knowledge in other fields such as Agile methods or Communication strategies. Actually, I proudly work for a Start-up to fight injustice and discrimination. In my free time, I write poetry and make researches about depression, equality, politics, JS, etc. So I can share it with the community.*
+*I am a [Typescript](https://www.typescriptlang.org/) Full-stack developer with knowledge in other fields such as Agile methods or Communication strategies. Actually, I proudly work for a Start-up to fight injustice and discrimination. In my free time, I write poetry and make researches about depression, equality, politics, JS, etc. So I can share it with the community.*
 You are invited to take a look at my portfolio -> https://chr-jimenez.com
 ## I code, creative, beyond.
 - Curently updating projects...🖨️
