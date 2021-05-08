@@ -1,7 +1,7 @@
 ### Welcome! I am Cristofher, - Aibique.
 <div>
 <img alt="Github Followers" src="https://img.shields.io/github/followers/Tonnraus?style=social"/>
-<img alt="Twitch" src="https://img.shields.io/twitch/status/aybique_?style=social"/>
+&nbsp;<img alt="Twitch" src="https://img.shields.io/twitch/status/aybique_?style=social"/>&nbsp;
 <img alt="Youtube" src="https://img.shields.io/badge/chr.jimenez%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
 </div>
 I am a <a href="https://www.typescriptlang.org/">Typescript</a> Full-stack developer with knowledge in other fields such as Agile methods or Communication strategies. Actually, I proudly work for a Start-up to fight injustice and discrimination. In my free time, I write poetry and make researches about depression, equality, politics, JS, etc. So I can share it with the community.*
