@@ -10,7 +10,7 @@ You are invited to take a look at my portfolio -> https://chr-jimenez.com
 - Curently updating projects...🖨️
 - Learning the 21 software desing patterns...
 - Collaborating with another creator... We created Translantic Dev
-- 2021: Combat one society issue.
+- 2021: Combating Food wasting.
 - Extra: I am a big fan of Podcasts.
 
 ### Send me a "Hi!" on :
