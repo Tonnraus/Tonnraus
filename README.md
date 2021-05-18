@@ -1,21 +1,26 @@
-### Welcome! I am Cristofher, - Aibique.
+<h1> 🌕 Willkomen! Ich bin Cristofher (IBK) 🌑 </h1>
 <div>
 <img alt="Github Followers" src="https://img.shields.io/github/followers/Tonnraus?style=social"/>
 &nbsp;<img alt="Twitch" src="https://img.shields.io/twitch/status/aybique_?style=social"/>&nbsp;
-<img alt="Youtube" src="https://img.shields.io/badge/chr.jimenez%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
 </div>
-I am a <a href="https://www.typescriptlang.org/">Typescript</a> Full-stack developer with knowledge in other fields such as Agile methods or Communication strategies. Actually, I proudly work for a Start-up to fight injustice and discrimination. In my free time, I write poetry and make researches about depression, equality, politics, JS, etc. So I can share it with the community.*
-You are invited to take a look at my portfolio -> https://chr-jimenez.com
-## I code, creative, beyond.
-- Curently updating projects...🖨️
-- Learning the 21 software desing patterns...
-- Collaborating with another creator... We created Translantic Dev
-- 2021: Combating Food wasting.
-- Extra: I am a big fan of Podcasts.
+<div>
+I am a <a href="https://www.typescriptlang.org/">Typescript</a> Full-stack developer, learning day by day to improve my skills in data science and cybersecurity. Nowadays, I collaborate with projects such as startups or communities: <a href="https://www.consulship.co/">Consulship 🛸 </a>, <a href="https://www.notion.so/Robots-LatAm-ae66a1e906b64a7dbbc56ab587f55aa6" >Robots Latam 🦾</a>.
+<br/>
+<br/>
+🏹 Goal: Support and Improve Startups and Communities, which solve global issues or innovate 🏹
+</div>
+<br/>
+<br/>
+<div">
+<a style="color:green" href="https://chr-jimenez.com">Personal Portfolio</a> | <a href="https://aibique.com">Business Portfolio</a> | <a href="">Youtube Channel</a> | <a href="">Traslantic</a>
+</div>
+<br/>
+<i>Helping is my hobby, don't hesitate to ask for help. Free on Wednesdays and Saturdays. Currently working on: projects performance, Datacademy challenge and SayMyBrand challenge</i>
 
 ### Send me a "Hi!" on :
-[LinkedIn](https://www.linkedin.com/in/cristofher-jumbo-jimenez/)
-[]()
+[LinkedIn](https://www.linkedin.com/in/cristofher-jumbo-jimenez/) | 
+[Twitter](https://twitter.com/Ayton_que) | 
+[Facebook](https://www.facebook.com/ibk.ibk.ibk)
 
 ### Tecnologies:
 <div>
