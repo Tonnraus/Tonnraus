@@ -1,4 +1,4 @@
-<h1> 🌕 Willkomen! Ich bin Cristofher (IBK) 🌑 </h1>
+<h1> 🌕 Willkomen! Ich bin Cristofher 🌑 </h1>
 <div>
 <img alt="Github Followers" src="https://img.shields.io/github/followers/srcristofher?style=social"/>
 &nbsp;<img alt="Twitch" src="https://img.shields.io/twitch/status/aybique_?style=social"/>&nbsp;
