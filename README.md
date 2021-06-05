@@ -7,7 +7,7 @@
 I am a <a href="https://www.typescriptlang.org/">Typescript</a> Full-stack developer, learning day by day to improve my skills in data science and cybersecurity. Nowadays, I collaborate with projects such as startups or communities: <a href="https://www.consulship.co/">Consulship 🛸 </a>, <a href="https://www.notion.so/Robots-LatAm-ae66a1e906b64a7dbbc56ab587f55aa6" >Robots Latam 🦾</a>.
 <br/>
 <br/>
-🏹 Goal: Support and Improve Startups and Communities, which solve global issues or innovate 🏹
+🏹 Goal: Support and Improve Startups and Communities, which solve global issues or innovate society 🏹
 </div>
 <br/>
 <br/>
