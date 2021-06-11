@@ -15,7 +15,7 @@ I am a <a href="https://www.typescriptlang.org/">Typescript</a> Full-stack devel
 <a style="color:green" href="https://chr-jimenez.com">Personal Portfolio</a> | <a href="https://aibique.com">Business Portfolio</a> | <a href="">Youtube Channel</a> | <a href="">Traslantic</a>
 </div>
 <br/>
-<i>Helping is my hobby, don't hesitate to ask for help. Free on Wednesdays and Saturdays. Currently working on: projects performance, Datacademy challenge and SayMyBrand challenge</i>
+<i>Boosting is my hobby, don't hesitate to ask for help. Free on Wednesdays and Saturdays. Currently working on: projects performance, Datacademy challenge and SayMyBrand challenge</i>
 
 ### Send me a "Hi!" on :
 [LinkedIn](https://www.linkedin.com/in/cristofher-jumbo-jimenez/) | 
