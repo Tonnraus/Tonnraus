@@ -20,7 +20,8 @@
 ### Send me a "Hi!" on :
 [LinkedIn](https://www.linkedin.com/in/cristofher-jumbo-jimenez/) | 
 [Twitter](https://twitter.com/Ayton_que) | 
-[Facebook](https://www.facebook.com/ibk.ibk.ibk)
+[Facebook](https://www.facebook.com/ibk.ibk.ibk) |
+[Github](https://www.github.com/srcristofher)
 ### Github Stats
 ---
 
