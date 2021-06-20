@@ -28,6 +28,6 @@
 <img align="left" alt="Tonnraus' Github Stats" src="https://github-readme-stats-tonnraus.vercel.app/api?username=srcristofher&show_icons=true&hide_border=true" /> 
 
 ### Author
-Cristofher
+Sr.Cristofher
 
 
