@@ -15,7 +15,7 @@
 <a style="color:green" href="https://chr-jimenez.com">Personal Portfolio</a> | <a href="https://aibique.com">Business Portfolio</a> | <a href="">Youtube Channel</a> | <a href="">Traslantic</a>
 </div>
 <br/>
-<i>Boosting your business is my hobby, don't hesitate to ask for help. Free on Wednesdays and Saturdays.</i>
+<i>Boosting your business is my hobby, don't hesitate to ask for help. Free on Tuesdays and Fridays.</i>
 
 ### Send me a "Hi!" on :
 [LinkedIn](https://www.linkedin.com/in/cristofher-jumbo-jimenez/) | 
