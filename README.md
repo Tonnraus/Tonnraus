@@ -12,7 +12,8 @@
 <br/>
 <br/>
 <div">
-<a style="color:green" href="https://chr-jimenez.com">Personal Portfolio</a> | <a href="https://aibique.com">Business Portfolio</a> | <a href="">Youtube Channel</a> | <a href="">Traslantic</a>
+<a style="color:green" href="https://chr-jimenez.com">Personal Portfolio</a> | <a href="https://aibique.com">Business Portfolio</a> | <a href="">Youtube Channel</a> | <a href="">TraslanticDev
+</a>
 </div>
 <br/>
 <i>Boosting online business is my hoby and work. Don't doubt to contact me to do so</i>
