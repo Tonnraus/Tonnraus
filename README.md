@@ -16,7 +16,7 @@
 </a>
 </div>
 <br/>
-<i>Boosting online business is my hobby and work. Don't doubt to contact me</i>
+<i>Boosting online business is my hobby and work. Don't doubt to contact me !</i>
 
 ### Send me a "Hi!" on :
 [LinkedIn](https://www.linkedin.com/in/cristofher-jumbo-jimenez/) | 
