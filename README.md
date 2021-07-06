@@ -7,7 +7,7 @@
   I am a <a href="https://www.typescriptlang.org/">Typescript</a> Full-stack developer at <a href="https://www.believeplus.com">Believe +</a>, learning day by day to improve my skills in data science and cybersecurity. Nowadays, I collaborate with projects such as startups or communities: <a href="https://www.consulship.co/">Consulship 🛸 </a>, <a href="https://www.notion.so/Robots-LatAm-ae66a1e906b64a7dbbc56ab587f55aa6" >Robots Latam 🦾</a>.
 <br/>
 <br/>
-🏹 Boosting Startups and Communities, reach me out ! 🏹
+🏹 Boosting Startups and Communities, reach me out! 🏹
 </div>
 <br/>
 <br/>
