@@ -18,7 +18,7 @@
 <br/>
 <i>Boosting online business since 2018. Don't doubt to contact me !</i>
 
-### Send me a "Hi!" on :
+### Send me a "Aloha!" on :
 [LinkedIn](https://www.linkedin.com/in/cristofher-jumbo-jimenez/) | 
 [Twitter](https://twitter.com/Ayton_que) | 
 [Facebook](https://www.facebook.com/ibk.ibk.ibk) |
