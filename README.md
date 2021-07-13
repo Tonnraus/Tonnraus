@@ -16,7 +16,7 @@
 </a>
 </div>
 <br/>
-<i>Boosting online business since 2018. Don't doubt to contact me !</i>
+<i>Boosting online business since 2018. Contact me then !</i>
 
 ### Send me a "Aloha!" on :
 [LinkedIn](https://www.linkedin.com/in/cristofher-jumbo-jimenez/) | 
