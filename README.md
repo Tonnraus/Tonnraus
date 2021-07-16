@@ -1,7 +1,7 @@
 <h1> 🌕 Willkomen! Ich bin  Cristofher 🌑 </h1>
 <div>
 <img alt="Github Followers" src="https://img.shields.io/github/followers/srcristofher?style=social"/>
-&nbsp;<img alt="Twitch image" src="https://img.shields.io/twitch/status/aybique_?style=social"/>&nbsp;
+&nbsp;<img alt="Twitch Image" src="https://img.shields.io/twitch/status/aybique_?style=social"/>&nbsp;
 </div>
 <div>
   I am a <a href="https://www.typescriptlang.org/">Typescript</a> Full-stack developer at <a href="https://www.believeplus.com">Believe +</a>, learning day by day to improve my skills in data science and cybersecurity. Nowadays, I collaborate with projects such as startups or communities: <a href="https://www.consulship.co/">Consulship 🛸 </a>, <a href="https://www.notion.so/Robots-LatAm-ae66a1e906b64a7dbbc56ab587f55aa6" >Robots Latam 🦾</a>.
